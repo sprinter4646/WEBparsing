@@ -1,0 +1,25 @@
+# https://stepik.org/lesson/691440/step/5?unit=690987
+# НВремя ожидания ответа на запрос - 21 секунда. Чтобы сократить время этого ожидания до 1 секунды, напишем тот же код,
+# только с атрибутом timeout=1. А если timeout=None, будем ждать ответ вечно.
+import requests
+import time
+
+url = 'http://httpbin.org/get'
+
+proxies = {
+    'http': 'http://200.12.55.90:80',
+    'https': 'http://200.12.55.90:80'
+}
+start = time.perf_counter()
+try:
+    requests.get(url=url, proxies=proxies, timeout=1)
+except Exception as _ex:  # вместо конструкции "except Exception as _ex:" писать просто "except:"
+    print(_ex)
+    print(time.perf_counter() - start)
+# >>> 1.002769447000901
+# >>> HTTPConnectionPool(host='200.12.55.90', port=80): Max retries exceeded with url: http://httpbin.org/get (Caused by
+# ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6f19d18910>,
+# 'Connection to 200.12.55.90 timed out. (connect timeout=1)'))
+#
+# Во втором примере метод .get() ожидает ответ от сервера ровно 1 секунду, затем печатает исключение с таймаутом,
+# а затем и время выполнения скрипта, где мы видим, что на всё потребовалось  1.002769447000901 сек.

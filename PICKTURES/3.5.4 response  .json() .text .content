@@ -1,0 +1,16 @@
+# https://stepik.org/lesson/693007/step/4?unit=692617
+# Перейдите на сайт http://parsinger.ru/img_download/index.html
+# На 1 из 160 картинок написан секретный код.
+# Напишите код, который поможет вам скачать все картинки.
+import requests
+for x in range(1, 161):
+    url = f'https://parsinger.ru/img_download/img/ready/{x}.png'
+    response = requests.get(url=url)
+    with open(f'../image{x}.jpeg', 'wb') as file:
+        file.write(response.content)
+
+# В скачанных картинках найдите вручную секретный код.
+# Вставьте код = 6759632 в поле для ответа
+#
+# Код спрятан, в углу.
+

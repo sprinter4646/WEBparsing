@@ -1,0 +1,6 @@
+# https://stepik.org/lesson/693007/step/1?unit=692617
+# Выполните следующий код у себя в терминале и посмотрите на то, что вы получаете в ответ:
+import requests
+
+response = requests.get(url='http://httpbin.org/')
+print(response.text)

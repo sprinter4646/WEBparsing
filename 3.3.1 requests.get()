@@ -1,0 +1,6 @@
+# https://stepik.org/lesson/691440/step/1?unit=690987
+import requests
+
+response = requests.get(url='http://httpbin.org/')
+print(type(response))
+print(response)

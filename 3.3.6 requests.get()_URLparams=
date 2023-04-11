@@ -1,0 +1,13 @@
+# https://stepik.org/lesson/691440/step/6?unit=690987
+# Если вы хотите передать key1=value1 и key2=value2 ресурсу httpbin.org/get, вы должны использовать следующий код:
+import requests
+
+param = {'key1': 'value1', 'key2': 'value2'}
+r = requests.get('https://httpbin.org/get', params=param)
+print(r.url)
+
+# >>> https://httpbin.org/get?key1=value1&key2=value2
+
+# Как видно, URL был сформирован правильно:
+
+# https://httpbin.org/get?key1=value1&key2=value2

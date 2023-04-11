@@ -1,0 +1,17 @@
+# https://stepik.org/lesson/691440/step/7?unit=690987
+# Загружаем видео при помощи requests
+# Задача:
+# Перейдите на сайт: https://parsinger.ru/video_downloads/
+# Скачайте видео с сайта при помощи requests.
+import requests
+url = 'https://parsinger.ru/video_downloads/videoplayback.mp4'
+response = requests.get(url=url, stream=True)
+with open('file.mp4', 'wb') as file:
+    file.write(response.content)
+'''with open('file.mp4', 'wb') as video:
+    for piece in response.iter_content(chunk_size=100000):
+        video.write(piece)'''
+# Определите его размер в ручную.
+# Напишите размер файла в поле для ответа. Написать нужно только цифру в мегабайтах.
+# 382 - неверно
+

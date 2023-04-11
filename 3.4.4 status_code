@@ -1,0 +1,15 @@
+# https://stepik.org/lesson/691442/step/4?unit=690989
+# Откройте сайт http://parsinger.ru/task/1/
+# На нём есть 500 ссылок, и только 1 вернёт статус код 200.
+# Напишите код который, поможет найти правильную ссылку
+import requests
+
+for x in range(1, 501):
+    url = f'https://parsinger.ru/task/1/{x}.html'
+    response = requests.get(url)
+    if response.status_code == 200:
+        print("status_code OK", url)
+    else:
+        print("status_code NOT OK", url)
+# По этой ссылке = https://parsinger.ru/task/1/333.html лежит секретный код,
+# который необходимо вставить в поле ответа 9876316843187416358741341687416874165432

@@ -1,0 +1,24 @@
+# https://stepik.org/lesson/691440/step/2?unit=690987
+# Вот пример отправляемого нашим скриптом заголовка.
+import requests
+
+response = requests.get(url='http://httpbin.org/user-agent')
+print(response.text)
+# Для того чтобы замаскировать свой запрос под запрос браузера, будем использовать .get() запрос с именованным
+# атрибутом и передадим в него словарь headers.
+headers = {
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                  'Chrome/99.0.4844.84 Safari/537.36',
+}
+
+response = requests.get(url='http://httpbin.org/user-agent', headers=headers)
+print(response.text)
+# Загрузите файл с user-agent и поместите его в корневой каталог с вашим проектом.
+from random import choice
+
+url = 'http://httpbin.org/user-agent'
+
+while line := open('user_agent.txt').read().split('\n'):
+    user_agent = {'user-agent': choice(line)}
+    response = requests.get(url=url, headers=user_agent)
+    print(response.text)

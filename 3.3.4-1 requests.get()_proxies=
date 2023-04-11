@@ -1,0 +1,26 @@
+# https://stepik.org/lesson/691440/step/4?unit=690987
+# Используйте hidemy.name, чтобы скачать 10шт бесплатных прокси. И сохраните их в файл с именем proxy.txt
+# Скопируйте этот код и запустите его у себя в терминале, чтобы посмотреть, как он работает.
+
+from random import choice
+import requests
+
+url = 'http://httpbin.org/ip'
+
+with open('proxy.txt') as file:
+    proxy_file = file.read().split('\n')  # Открыли файл с прокси и считали его, записали список в переменную proxy_file
+    for _ in range(1000):  # Начали цикл в 1000 итераций, и на каждой выбираем случайным образом
+        # 1шт прокси при помощи модуля random.choice()
+        try:
+            ip = choice(proxy_file).strip()  # choice(proxy_file).strip()
+            proxy = {
+                'http': f'http://{ip}',
+                'https': f'http://{ip}'
+            }  # В словаре proxy формируем прокси со схемой одновременно.
+            # Прокси должен быть вида http://203.24.108.168:80
+            response = requests.get(url=url, proxies=proxy)  # Делаем запрос к сайту из url, отправляя словарь с прокси
+            # proxies=proxy, где хранится всего 2 элемента, на каждой итерации новый ip
+            print(response.json(), 'Success connection')  # Распечатываем результат в формате .json()
+        except Exception as _ex:  # Так же обернули всё это в try/exсept, чтобы скрипт не падал от timeout
+            continue
+

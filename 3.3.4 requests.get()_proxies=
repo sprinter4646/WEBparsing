@@ -1,0 +1,17 @@
+# https://stepik.org/lesson/691440/step/4?unit=690987
+# Библиотека Requests позволяет отправлять запросы, скрывая свой настоящий IP-адрес. Зачем его скрывать?
+# Например, потому что очень часто за высокочастотные запросы можно получить бан.
+import requests
+
+url = 'http://httpbin.org/ip'
+proxy = {
+    'http': 'http://103.149.130.38:80',
+    'https': 'http://103.149.130.38:80',
+}
+
+response = requests.get(url=url, proxies=proxy)
+print(response.json())
+
+# Использовал ip=103.149.130.38 из Алексей Гаврилов, выдало ответ:
+#  >> {'origin': '139.199.103.247, 103.149.130.38'} Success connection
+
