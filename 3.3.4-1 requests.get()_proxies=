@@ -15,7 +15,7 @@ with open('proxy.txt') as file:
             ip = choice(proxy_file).strip()  # choice(proxy_file).strip()
             proxy = {
                 'http': f'http://{ip}',
-                'https': f'http://{ip}'
+                'https': f'https://{ip}'
             }  # В словаре proxy формируем прокси со схемой одновременно.
             # Прокси должен быть вида http://203.24.108.168:80
             response = requests.get(url=url, proxies=proxy)  # Делаем запрос к сайту из url, отправляя словарь с прокси
