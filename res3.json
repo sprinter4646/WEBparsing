@@ -1,0 +1,610 @@
+[
+    {
+        "categories": "watch",
+        "name": "Jet Kid Start blue Умные детские часы",
+        "article": "Артикул: 80235265",
+        "description": {
+            "brand": "Jet",
+            "model": "Excidium",
+            "type": "умные часы",
+            "display": "Монохромный",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.jetdevice.com"
+        },
+        "count": "5",
+        "price": "2310 руб",
+        "old_price": "3550 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_1.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Фитнес- браслет BAND 6 FOREST GREEN FARA-B19 HUAWEI",
+        "article": "Артикул: 80581842",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "5480 руб",
+        "old_price": "8565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_2.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19S BLACK HUAWEI",
+        "article": "Артикул: 8058184234",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "21810 руб",
+        "old_price": "22565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_3.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19V BROWN HUAWEI",
+        "article": "Артикул: 80615308",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19V",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь",
+            "material_bracer": "кожа",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "22",
+        "price": "21810 руб",
+        "old_price": "23800 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_4.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19S BLACK HUAWEI",
+        "article": "Артикул: 80616445",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19S",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "10",
+        "price": "27770 руб",
+        "old_price": "30170 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_5.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19A GREY HUAWEI",
+        "article": "Артикул: 80616446",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19A",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "7",
+        "price": "27770 руб",
+        "old_price": "29000 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_6.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19 GOLD HUAWEI",
+        "article": "Артикул: 80616447",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь, пластик",
+            "material_bracer": "нержавеющая сталь",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "8",
+        "price": "24230 руб",
+        "old_price": "24480 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_7.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы WATCH 3 GALILEO-L11 STEEL HUAWEI",
+        "article": "Артикул:  80590693",
+        "description": {
+            "brand": "Huawei",
+            "model": "Watch 3 Galileo-L21E",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "металл, керамика",
+            "material_bracer": "кожа",
+            "size": "46.2 х 46.2 х 12.15 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "18",
+        "price": "32600 руб",
+        "old_price": "32900 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_8.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Jet Kid Start blue Умные детские часы",
+        "article": "Артикул: 80235265",
+        "description": {
+            "brand": "Jet",
+            "model": "Excidium",
+            "type": "умные часы",
+            "display": "Монохромный",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.jetdevice.com"
+        },
+        "count": "5",
+        "price": "2310 руб",
+        "old_price": "3550 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_1.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Фитнес- браслет BAND 6 FOREST GREEN FARA-B19 HUAWEI",
+        "article": "Артикул: 80581842",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "5480 руб",
+        "old_price": "8565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_2.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19S BLACK HUAWEI",
+        "article": "Артикул: 8058184234",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "21810 руб",
+        "old_price": "22565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_3.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19V BROWN HUAWEI",
+        "article": "Артикул: 80615308",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19V",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь",
+            "material_bracer": "кожа",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "22",
+        "price": "21810 руб",
+        "old_price": "23800 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_4.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19S BLACK HUAWEI",
+        "article": "Артикул: 80616445",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19S",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "10",
+        "price": "27770 руб",
+        "old_price": "30170 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_5.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19A GREY HUAWEI",
+        "article": "Артикул: 80616446",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19A",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "7",
+        "price": "27770 руб",
+        "old_price": "29000 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_6.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19 GOLD HUAWEI",
+        "article": "Артикул: 80616447",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь, пластик",
+            "material_bracer": "нержавеющая сталь",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "8",
+        "price": "24230 руб",
+        "old_price": "24480 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_7.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы WATCH 3 GALILEO-L11 STEEL HUAWEI",
+        "article": "Артикул:  80590693",
+        "description": {
+            "brand": "Huawei",
+            "model": "Watch 3 Galileo-L21E",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "металл, керамика",
+            "material_bracer": "кожа",
+            "size": "46.2 х 46.2 х 12.15 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "18",
+        "price": "32600 руб",
+        "old_price": "32900 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_8.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Jet Kid Start blue Умные детские часы",
+        "article": "Артикул: 80235265",
+        "description": {
+            "brand": "Jet",
+            "model": "Excidium",
+            "type": "умные часы",
+            "display": "Монохромный",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.jetdevice.com"
+        },
+        "count": "5",
+        "price": "2310 руб",
+        "old_price": "3550 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_1.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Фитнес- браслет BAND 6 FOREST GREEN FARA-B19 HUAWEI",
+        "article": "Артикул: 80581842",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "5480 руб",
+        "old_price": "8565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_2.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19S BLACK HUAWEI",
+        "article": "Артикул: 8058184234",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "21810 руб",
+        "old_price": "22565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_3.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19V BROWN HUAWEI",
+        "article": "Артикул: 80615308",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19V",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь",
+            "material_bracer": "кожа",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "22",
+        "price": "21810 руб",
+        "old_price": "23800 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_4.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19S BLACK HUAWEI",
+        "article": "Артикул: 80616445",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19S",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "10",
+        "price": "27770 руб",
+        "old_price": "30170 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_5.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19A GREY HUAWEI",
+        "article": "Артикул: 80616446",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19A",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "7",
+        "price": "27770 руб",
+        "old_price": "29000 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_6.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19 GOLD HUAWEI",
+        "article": "Артикул: 80616447",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь, пластик",
+            "material_bracer": "нержавеющая сталь",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "8",
+        "price": "24230 руб",
+        "old_price": "24480 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_7.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы WATCH 3 GALILEO-L11 STEEL HUAWEI",
+        "article": "Артикул:  80590693",
+        "description": {
+            "brand": "Huawei",
+            "model": "Watch 3 Galileo-L21E",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "металл, керамика",
+            "material_bracer": "кожа",
+            "size": "46.2 х 46.2 х 12.15 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "18",
+        "price": "32600 руб",
+        "old_price": "32900 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_8.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Jet Kid Start blue Умные детские часы",
+        "article": "Артикул: 80235265",
+        "description": {
+            "brand": "Jet",
+            "model": "Excidium",
+            "type": "умные часы",
+            "display": "Монохромный",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.jetdevice.com"
+        },
+        "count": "5",
+        "price": "2310 руб",
+        "old_price": "3550 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_1.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Фитнес- браслет BAND 6 FOREST GREEN FARA-B19 HUAWEI",
+        "article": "Артикул: 80581842",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "5480 руб",
+        "old_price": "8565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_2.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19S BLACK HUAWEI",
+        "article": "Артикул: 8058184234",
+        "description": {
+            "brand": "Huawei",
+            "model": "Band 6 FRA-B19",
+            "type": "фитнес браслет",
+            "display": "AMOLED",
+            "material_frame": "полимер",
+            "material_bracer": "силикон",
+            "size": "54х34х12 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "15",
+        "price": "21810 руб",
+        "old_price": "22565 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_3.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19V BROWN HUAWEI",
+        "article": "Артикул: 80615308",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19V",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь",
+            "material_bracer": "кожа",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "22",
+        "price": "21810 руб",
+        "old_price": "23800 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_4.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19S BLACK HUAWEI",
+        "article": "Артикул: 80616445",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19S",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "10",
+        "price": "27770 руб",
+        "old_price": "30170 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_5.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT RUNNER-B19A GREY HUAWEI",
+        "article": "Артикул: 80616446",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT RUNNER-B19A",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "пластик",
+            "material_bracer": "силикон",
+            "size": "46.4 х 46.4 х 11 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "7",
+        "price": "27770 руб",
+        "old_price": "29000 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_6.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы GT 3 MIL-B19 GOLD HUAWEI",
+        "article": "Артикул: 80616447",
+        "description": {
+            "brand": "Huawei",
+            "model": "GT 3 MIL-B19",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "нержавеющая сталь, пластик",
+            "material_bracer": "нержавеющая сталь",
+            "size": "42.3 х 42.3 х 10 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "8",
+        "price": "24230 руб",
+        "old_price": "24480 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_7.html"
+    },
+    {
+        "categories": "watch",
+        "name": "Умные часы WATCH 3 GALILEO-L11 STEEL HUAWEI",
+        "article": "Артикул:  80590693",
+        "description": {
+            "brand": "Huawei",
+            "model": "Watch 3 Galileo-L21E",
+            "type": "умные часы",
+            "display": "AMOLED",
+            "material_frame": "металл, керамика",
+            "material_bracer": "кожа",
+            "size": "46.2 х 46.2 х 12.15 мм",
+            "site": "www.huawei.ru"
+        },
+        "count": "18",
+        "price": "32600 руб",
+        "old_price": "32900 руб",
+        "link": "https://parsinger.ru/html/watch/1/1_8.html"
+    }
+]
