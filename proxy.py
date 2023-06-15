@@ -26,7 +26,7 @@ class Parser:
                 soup = BeautifulSoup(response.text, 'lxml')
                 ip = soup.find('tbody').find_all('tr')
                 port = soup.find('tbody').find_all('tr')
-                for ip, port in zip(ip, port):
+                for ip, port in zip(ip, port):F
                     self.completed_proxy_list.append(
                         f"{ip.find_all('td')[0].text}:{port.find_all('td')[1].text} \n")
                 print(f'page:{page}, find proxy:{len(self.completed_proxy_list)}')
